@@ -15,7 +15,9 @@
 
 ### Find me elsewhere 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oyelowooluwatobi/)](https://www.linkedin.com/in/oyelowooluwatobi/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/oluwat_biloba)](https://twitter.com/oluwat_biloba)
+<p align="left"> <a href="https://twitter.com/oluwat_biloba" target="blank"><img src="https://img.shields.io/twitter/follow/oluwat_biloba?logo=twitter&style=for-the-badge" alt="oluwat_biloba" /></a> </p>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oyelowooluwatobi/)](https://www.linkedin.com/in/oyelowooluwatobi/)
 
 <a href="https://www.buymeacoffee.com/oluwatbi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
