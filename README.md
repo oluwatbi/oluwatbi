@@ -4,13 +4,13 @@ I am **Oluwatobiloba Oyelowo**, there is nothing much intresting about me really
 
 ##### BIO
 
-- ⚙️ I use daily: `.dart`, `.php`, `.js`, `.html`, `.css`
+- ⚙️ I use daily: **`.dart`, `.php`, `.js`, `.html`, `.css`**
 - 🌍 I'm mostly active within the **Flutter & Laravel Community**
 
 - :bulb: Learning all about **dart :dart:, web3 :globe_with_meridians:, cloud computing :cloud:, Open Source**
-- ⚡️ Fun fact: I'm a huge fan of Anime & :penguin: **Ubuntu**
-- 👯 I’m looking to collaborate on your project
-- 🌱 Learning how to do some magic with flutter 😄
+- ⚡️ Fun fact: I'm a huge fan of **Anime** & :penguin: **Ubuntu**
+- 👯 I’m looking to collaborate on any project that will get my hands dirty and **build my experience.**
+- 🌱 Learning how to do some magic with #flutter 😄
 - :notebook_with_decorative_cover: Writing at: [Dev.to](https://dev.to/oyelowotobiloba)
 
 ![Oluwatobiloba's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluwatbi&count_private=true&theme=vue&show&show_icons=true) [![Oluwatobiloba's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oluwat_biloba)](https://github.com/oluwatbi/github-readme-stats)
