@@ -13,9 +13,17 @@ I am **Oluwatobiloba Oyelowo**, there is nothing much intresting about me really
 - 🌱 Learning how to do some magic with flutter 😄
 - :notebook_with_decorative_cover: Writing at: [Dev.to](https://dev.to/oyelowotobiloba)
 
+![Oluwatobiloba's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluwatbi&count_private=true&theme=vue&show&show_icons=true) [![Oluwatobiloba's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oluwat_biloba)](https://github.com/oluwatbi/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwatbi&layout=compact)](https://github.com/oluwatbi/github-readme-stats)
+
+
+<!-- Find me elsewhere -->
 ### Find me elsewhere 🌎
 
 <p align="left"> <a href="https://twitter.com/oluwat_biloba" target="blank"><img src="https://img.shields.io/twitter/follow/oluwat_biloba?logo=twitter&style=for-the-badge" alt="oluwat_biloba" /></a> </p>
+
+[![wakatime](https://wakatime.com/badge/user/d15a63f9-cd4b-4770-a0d1-2e380739d3bb.svg)](https://wakatime.com/@d15a63f9-cd4b-4770-a0d1-2e380739d3bb)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oyelowooluwatobi/)](https://www.linkedin.com/in/oyelowooluwatobi/)
 
