@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
 
-I am **Oluwatobiloba Oyelowo**, there is nothing much intresting about me 😄 Just a picture of me looking innocent 😄😄. By the way, I develop software using flutter, larevel and currently working in Lagos, Nigeria. A php Laravel fanboy  🥺👉👈
+I am **Oluwatobiloba Oyelowo**, there is nothing much intresting about me really😄 Just a picture of me looking innocent 😄😄. By the way, I develop software using flutter, larevel and currently working in Lagos, Nigeria. A php Laravel fanboy  🥺👉👈
 
 ##### BIO
 
