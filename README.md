@@ -18,7 +18,7 @@ I am **Oluwatobiloba Oyelowo**, there is nothing much intresting about me really
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwatbi&layout=compact)](https://github.com/oluwatbi/github-readme-stats)
 
 
-<!-- Find me elsewhere -->
+<!-- Find me elsewhere --> 
 ### Find me elsewhere 🌎
 
 <p align="left"> <a href="https://twitter.com/oluwat_biloba" target="blank"><img src="https://img.shields.io/twitter/follow/oluwat_biloba?logo=twitter&style=for-the-badge" alt="oluwat_biloba" /></a> </p>
