@@ -13,7 +13,12 @@ I am **Oluwatobiloba Oyelowo**, there is nothing much intresting about me really
 - 🌱 Learning how to do some magic with #flutter 😄
 - :notebook_with_decorative_cover: Writing at: [Dev.to](https://dev.to/oyelowotobiloba)
 
-![Oluwatobiloba's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluwatbi&count_private=true&theme=vue&show&show_icons=true) [![Oluwatobiloba's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oluwat_biloba)](https://github.com/oluwatbi/github-readme-stats)
+##### Other Stuff I enjoy doing
+
+- Mentoring
+- Community Building
+
+[![Oluwatobiloba's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oluwat_biloba&layout=compact)](https://github.com/oluwabi/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwatbi&layout=compact)](https://github.com/oluwatbi/github-readme-stats)
 
