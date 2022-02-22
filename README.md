@@ -6,7 +6,6 @@ I am **Oluwatobiloba Oyelowo**, there is nothing much intresting about me really
 
 - ⚙️ I use daily: **`.dart`, `.php`, `.js`, `.html`, `.css`**
 - 🌍 I'm mostly active within the **Flutter & Laravel Community**
-
 - :bulb: Learning all about **dart :dart:, web3 :globe_with_meridians:, cloud computing :cloud:, Open Source**
 - ⚡️ Fun fact: I'm a huge fan of **Anime** & :penguin: **Ubuntu**
 - 👯 I’m looking to collaborate on any project that will get my hands dirty and **build my experience.**
@@ -15,6 +14,7 @@ I am **Oluwatobiloba Oyelowo**, there is nothing much intresting about me really
 
 ##### Other Stuff I enjoy doing
 
+- Playing #codMobile 😄
 - Mentoring
 - Community Building
 
