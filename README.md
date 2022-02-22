@@ -14,7 +14,7 @@ I am **Oluwatobiloba Oyelowo**, there is nothing much intresting about me really
 
 ##### Other Stuff I enjoy doing
 
-- Playing #codMobile 😄
+- Playing #codMobile :video_game:
 - Mentoring
 - Community Building
 
