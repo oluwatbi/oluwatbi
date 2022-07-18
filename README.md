@@ -33,7 +33,9 @@ I am **Oluwatobiloba Oyelowo**, there is nothing much intresting about me really
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oyelowooluwatobi/)](https://www.linkedin.com/in/oyelowooluwatobi/)
 
+<!--
 <a href="https://www.buymeacoffee.com/oluwatbi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+-->
 
 <!--
 **oluwatbi/oluwatbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
