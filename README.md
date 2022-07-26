@@ -25,7 +25,7 @@ I am **Oluwatobiloba Oyelowo**, there is nothing much intresting about me really
 
 <!-- Find me elsewhere --> 
 
-### Find me elsewhered 🌎
+### Find me elsewhere 🌎
 
 <p align="left"> <a href="https://twitter.com/oluwat_biloba" target="blank"><img src="https://img.shields.io/twitter/follow/oluwat_biloba?logo=twitter&style=for-the-badge" alt="oluwat_biloba" /></a> </p>
 
