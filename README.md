@@ -23,7 +23,7 @@ I am **Oluwatobiloba Oyelowo**, there is nothing much intresting about me really
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwatbi&layout=compact)](https://github.com/oluwatbi/github-readme-stats)
 
 
-<!-- Find me elsewhere --> 
+<!-- Find me elsewhere! --> 
 
 ### Find me elsewhere 🌎
 
