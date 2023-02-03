@@ -18,9 +18,9 @@ I am **Oluwatobiloba Oyelowo**, there is nothing much intresting about me really
 - Mentoring
 - Community Building
 
-[![Oluwatobiloba's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oluwat_biloba&layout=compact)](https://github.com/oluwabi/github-readme-stats)
+<!-- [![Oluwatobiloba's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=oluwat_biloba&layout=compact)](https://github.com/oluwabi/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwatbi&layout=compact)](https://github.com/oluwatbi/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwatbi&layout=compact)](https://github.com/oluwatbi/github-readme-stats) -->
 
 
 <!-- Find me elsewhere! --> 
