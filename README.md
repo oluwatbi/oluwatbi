@@ -1,17 +1,1 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">
-
- I am **Oluwatobiloba Oyelowo**
- 
-
-- Playing #codMobile :video_game: **UID: 6744031013955436545**
-- ⚙️ I use daily: **`.dart`, `.php`, `.js`, `.html`, `.css`**
-- 🌍 I'm mostly active within the **Flutter & Laravel Community**
-- :bulb: Learning all about **dart :dart:, web3 :globe_with_meridians:, cloud computing :cloud:, Open Source**
-- ⚡️ Fun fact: I'm a huge fan of **Anime** & :penguin: **Ubuntu**
-- 👯 I’m looking to collaborate on any project that will get my hands dirty and **build my experience.**
-- 🌱 Learning how to do some magic with #flutter 😄
-- :notebook_with_decorative_cover: Writing at: [Dev.to](https://dev.to/oyelowotobiloba)
-
-
-
-
+![3A4BA49F-C9EB-44DD-89CF-5E59B0E47766_AK325401000_6617292915907f77615b09de3a975fa6_technologist](https://github.com/oluwatbi/oluwatbi/assets/34950749/d0f803b5-83fb-4a68-8a5e-b395a9584f39)
